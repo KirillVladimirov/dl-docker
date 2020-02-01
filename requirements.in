@@ -1,0 +1,58 @@
+# local package
+# -e .
+
+# click
+matplotlib
+seaborn
+plotly
+notebook
+Sphinx
+flake8
+pandas
+tqdm
+shap
+psutil
+statsmodels
+psycopg2
+pyarrow
+missingno
+
+## jupyter
+jupyter
+jupyterlab
+jupyter_contrib_nbextensions
+ipywidgets
+pandas-profiling
+yellowbrick
+
+## ml-workspace
+sklearn
+lightgbm
+xgboost
+catboost
+optuna
+mlflow
+scipy
+
+# nlp
+# Морфологический анализатор (словарная морфология)
+pymorphy2
+# Морфологический анализатор
+pymystem3
+# Иностранный морфологический анализатор.
+nltk
+gensim
+wordcloud
+beautifulsoup4
+spacy
+unidecode
+beautifulsoup4
+pyldavis
+
+# clustering
+umap-learn
+# hdbscan
+
+torch 
+torchvision
+
